@@ -1,22 +1,27 @@
-# 🧠 ChillPill AI - Your Supportive AI Companion
+# 🧠 ChillPill AI – Your Supportive AI Companion
 
-ChillPill AI is an interactive and empathetic web-based chatbot designed to provide mental wellness support. It understands the user's mood through conversation and offers a variety of personalized activities to help them feel better, all within a beautiful and responsive interface.
+ChillPill AI is an **interactive and empathetic web-based chatbot** designed to provide **mental wellness support**.  
+It understands the user's mood through conversation and offers **personalized activities** to help them feel better — all inside a **beautiful and responsive interface**.
+
+---
 
 ## ✨ Features
 
-* **Real-time Mood Detection:** Understands user emotions (happy, sad, anxious) from their messages.
-* **Dynamic Mood Indicator:** A visual emoji that changes and fills up as the user's mood improves.
-* **Personalized Activity Suggestions:** Offers interactive suggestions like playing games, listening to music, or writing in a journal.
-* **Modern UI/UX:** Features a hover-to-expand sidebar, an animated emoji background, and a dynamic input bar.
-* **Crisis Intervention:** Detects messages indicating a crisis and provides immediate helpline information.
-* **Private Journal:** An integrated journal for users to write down their thoughts, with AI-powered summarization.
+- **Real-time Mood Detection** 🧾 – Understands emotions (happy, sad, anxious) from messages.  
+- **Dynamic Mood Indicator** 😀 – A visual emoji that changes/fills as mood improves.  
+- **Personalized Activity Suggestions** 🎮 – Suggests games, music, memes, journaling.  
+- **Modern UI/UX** 🎨 – Hover-to-expand sidebar, animated emoji background, smooth input bar.  
+- **Crisis Intervention** 🚨 – Detects crisis messages and provides helpline info.  
+- **Private Journal** 📓 – Built-in journal with AI-powered summarization.  
+
+---
 
 ## 🛠️ Tech Stack
 
-* **Frontend:** React.js, CSS
-* **Backend:** Python, Flask
-* **AI:** Google Gemini API
-* **APIs:** Audius for music, Giphy for memes
+**Frontend:** React.js, CSS  
+**Backend:** Python (Flask)  
+**AI Model:** Google Gemini API  
+**APIs:** Audius (music), Giphy (memes)  
 
 ---
 
@@ -24,31 +29,16 @@ ChillPill AI is an interactive and empathetic web-based chatbot designed to prov
 
 Follow these steps to get the project running on your local machine.
 
-### Prerequisites
+### ✅ Prerequisites
+- [Git](https://git-scm.com/)  
+- [Python 3.8+](https://www.python.org/downloads/) and `pip`  
+- [Node.js & npm](https://nodejs.org/)  
 
-* Git
-* Python 3.8+ and pip
-* Node.js and npm
+---
 
-### Backend Setup (Flask Server)
+### 🖥️ Backend Setup (Flask Server)
 
-1.  **Clone the repository:**
-    ```sh
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-    cd your-repo-name
-    ```
-
-2.  **Create and activate a virtual environment:**
-    ```sh
-    # For macOS/Linux
-    python3 -m venv venv
-    source venv/bin/activate
-
-    # For Windows
-    python -m venv venv
-    venv\Scripts\activate
-    ```
-
-3.  **Install Python dependencies:**
-    ```sh
-    pip install
+Clone the repository:
+```bash
+git clone https://github.com/Krish-Kumar-2005/Gen-AI-Chill-Pill.git
+cd Gen-AI-Chill-Pill

@@ -1,0 +1,3 @@
+oNgumhsXWcz1GbvTWdBXsfiT2NqZHODI - meme
+pip install vaderSentiment requests python-dotenv
+We’ll use VADER (lightweight sentiment) + a tiny Hindi/Hinglish keyword check.

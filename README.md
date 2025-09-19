@@ -104,9 +104,6 @@ npm start
 
 ## 📸 Screenshots
 
-*(You can add screenshots of your application here later)*
-
-
 
 
 ---
@@ -123,12 +120,6 @@ Contributions are welcome! Please feel free to fork this repository and open a p
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
-
 ## 💡 Acknowledgements
 
 -   Google Gemini API
@@ -140,3 +131,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ## 🌟 Support
 
 If you like this project, please give it a star ⭐ on GitHub and share it with others!
+
